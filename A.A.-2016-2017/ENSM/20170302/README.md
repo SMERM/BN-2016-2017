@@ -7,3 +7,5 @@
 * `sms-tools`:
    * utilizzo di `hpr` e `hps`
    * utilizzo delle `transformations` (da `GUI`)
+
+![hps screenshot](./hps_screenshot.png)
